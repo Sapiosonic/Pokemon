@@ -20,6 +20,15 @@ body {
   font-family: 'Poppins';
 }
 
+h1{
+  font-size: 20px;
+  text-align: center;
+}
+
+span {
+  color: #2f67b2;
+}
+
 .container{
   border: 1px solid #ccc;
   border-radius: 10px;
