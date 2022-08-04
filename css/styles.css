@@ -43,3 +43,11 @@ hr {
   max-width: 450px;
   min-height: 300px;
 }
+
+.imagem {
+  text-align: center;
+}
+
+.imagem img {
+  width:90%;
+}
