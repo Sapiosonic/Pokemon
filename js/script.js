@@ -7,7 +7,7 @@ formulario.addEventListener("submit", function (e) {
   // Url da pesquisa
   let urlForm = "https://pokeapi.co/api/v2/pokemon/";
 
-  // Valor do inpt Name
+  // Valor do input Name
   let nome = document.getElementById("name");
 
   // Concatena a url com o inputname
